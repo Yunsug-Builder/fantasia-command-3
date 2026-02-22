@@ -1,3 +1,19 @@
+# 판타지아 커맨드: 실시간 AI 전략 게임
+
+## 소개
+
+**판타지아 커맨드**는 사용자가 AI와 실시간으로 상호작용하며 전략적인 결정을 내리는 웹 기반 게임입니다. React와 Vite, TypeScript를 사용하여 개발되었으며, Firebase를 통해 백엔드 기능을 구현할 계획입니다.
+
+## 배포 가이드 (Deployment Guide)
+
+**경고:** Cloudflare Pages 배포 시, 다음 설정값을 반드시 사용해야 합니다.
+
+- **Framework Preset**: `Vite`
+- **Build Command**: `npm run build`
+- **Output Directory**: `dist`
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
